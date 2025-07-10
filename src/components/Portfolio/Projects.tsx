@@ -22,12 +22,12 @@ const Projects = () => {
       features: ["Payment Processing", "Student Management", "Admin Dashboard", "Report Generation"]
     },
     {
-      title: "Portfolio Website",
-      description: "A modern, responsive portfolio website showcasing projects and skills. Built with React and TypeScript for optimal performance.",
-      tech: ["React", "TypeScript", "Tailwind CSS", "Vite"],
-      github: "https://github.com/MadiraGowtham",
-      demo: "#",
-      features: ["Modern Design", "Responsive Layout", "Fast Performance", "SEO Optimized"]
+      title: "Blood Donation Project",
+      description: "A comprehensive blood donation management system designed to connect donors with recipients. Features user registration, donation tracking, and emergency blood requests.",
+      tech: ["HTML", "CSS", "JavaScript", "Database"],
+      github: "https://github.com/MadiraGowtham/Blood_Donation",
+      demo: null,
+      features: ["Donor Management", "Blood Inventory", "Emergency Requests", "User Authentication"]
     }
   ];
 
