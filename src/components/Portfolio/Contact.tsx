@@ -50,8 +50,8 @@ const Contact = () => {
     {
       icon: <Mail className="w-5 h-5" />,
       label: "Email",
-      value: "gowtham.madira@example.com",
-      href: "mailto:gowtham.madira@example.com"
+      value: "madiragowtham19@gmail.com",
+      href: "mailto:madiragowthem19@gmail.com"
     },
     {
       icon: <Github className="w-5 h-5" />,
