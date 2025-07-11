@@ -91,7 +91,7 @@ const Navigation = () => {
               </a>
             </Button>
             <Button variant="outline" size="sm" asChild>
-              <a href="/lovable-uploads/0f5c20e7-f8ad-44ec-a63c-123e35e60504.png" target="_blank" rel="noopener noreferrer">
+              <a href="/resume.png" target="_blank" rel="noopener noreferrer">
                 <FileText className="w-4 h-4 mr-2" />
                 Resume
               </a>
@@ -145,7 +145,7 @@ const Navigation = () => {
                   </a>
                 </Button>
                 <Button variant="outline" size="sm" asChild>
-                  <a href="/lovable-uploads/0f5c20e7-f8ad-44ec-a63c-123e35e60504.png" target="_blank" rel="noopener noreferrer">
+                  <a href="/resume.png" target="_blank" rel="noopener noreferrer">
                     <FileText className="w-4 h-4 mr-2" />
                     Resume
                   </a>
