@@ -91,7 +91,7 @@ const Navigation = () => {
               </a>
             </Button>
             <Button variant="outline" size="sm" asChild>
-              <a href="/resume.png" target="_blank" rel="noopener noreferrer">
+              <a href="/assets/resume.png" target="_blank" rel="noopener noreferrer">
                 <FileText className="w-4 h-4 mr-2" />
                 Resume
               </a>
@@ -145,7 +145,7 @@ const Navigation = () => {
                   </a>
                 </Button>
                 <Button variant="outline" size="sm" asChild>
-                  <a href="/resume.png" target="_blank" rel="noopener noreferrer">
+                  <a href="/assets/resume.png" target="_blank" rel="noopener noreferrer">
                     <FileText className="w-4 h-4 mr-2" />
                     Resume
                   </a>
