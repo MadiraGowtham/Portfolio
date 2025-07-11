@@ -1,8 +1,7 @@
 import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { Menu, X, Github, Linkedin, FileText } from "lucide-react";
-import resumeImage from "@/assets/resume.png";
+import { Menu, X, Github, Linkedin } from "lucide-react";
 
 const Navigation = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -91,12 +90,6 @@ const Navigation = () => {
                 <Linkedin className="w-4 h-4" />
               </a>
             </Button>
-            <Button variant="outline" size="sm" asChild>
-              <a href={resumeImage} target="_blank" rel="noopener noreferrer">
-                <FileText className="w-4 h-4 mr-2" />
-                Resume
-              </a>
-            </Button>
           </div>
 
           {/* Mobile Menu Button */}
@@ -143,12 +136,6 @@ const Navigation = () => {
                     rel="noopener noreferrer"
                   >
                     <Linkedin className="w-4 h-4" />
-                  </a>
-                </Button>
-                <Button variant="outline" size="sm" asChild>
-                  <a href={resumeImage} target="_blank" rel="noopener noreferrer">
-                    <FileText className="w-4 h-4 mr-2" />
-                    Resume
                   </a>
                 </Button>
               </div>
