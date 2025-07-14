@@ -28,6 +28,14 @@ const Projects = () => {
       github: "https://github.com/MadiraGowtham/Blood_Donation",
       demo: null,
       features: ["Donor Management", "Blood Inventory", "Emergency Requests", "User Authentication"]
+    },
+    {
+      title: "E-commerce Website",
+      description: "A full-featured e-commerce platform with advanced child order control system. Enables seamless shopping experience with order management, inventory tracking, and user account features.",
+      tech: ["HTML", "CSS", "JavaScript", "E-commerce", "Order Management"],
+      github: "https://github.com/MadiraGowtham/Ecommerce_Website",
+      demo: null,
+      features: ["Child Order Control", "Shopping Cart", "User Accounts", "Product Management", "Payment Integration"]
     }
   ];
 
