@@ -11,18 +11,6 @@ const Hero = () => {
       <div className="absolute bottom-20 left-20 w-40 h-40 bg-accent/10 rounded-full blur-3xl"></div>
 
       <div className="max-w-4xl mx-auto text-center relative z-10">
-        {/* Profile Image */}
-        <div className="mb-8 flex justify-center">
-          <div className="relative">
-            <img
-              src="/lovable-uploads/0db2df95-d5dc-458d-bc97-6920e1e8e899.png"
-              alt="Gowtham Madira"
-              className="w-32 h-32 md:w-40 md:h-40 rounded-full object-cover border-4 border-primary/20 shadow-2xl"
-            />
-            <div className="absolute inset-0 rounded-full bg-gradient-primary opacity-20"></div>
-          </div>
-        </div>
-        
         <div className="mb-8">
           <Badge variant="secondary" className="mb-6 px-4 py-2 text-sm">
             Welcome to my portfolio
