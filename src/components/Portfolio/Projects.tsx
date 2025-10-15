@@ -36,6 +36,22 @@ const Projects = () => {
       github: "https://github.com/MadiraGowtham/Ecommerce_Website",
       demo: null,
       features: ["Child Order Control", "Shopping Cart", "User Accounts", "Product Management", "Payment Integration"]
+    },
+    {
+      title: "MERN Stack Developer Machine Test",
+      description: "This project implements a basic full-stack application using the MERN stack (MongoDB, Express.js, React.js, Node.js) featuring secure admin login with JWT authentication, agent creation management, and CSV list upload with task distribution among agents. It includes proper validation, error handling, and an interactive dashboard for managing agent tasks efficiently.",
+      tech: ["ReactJS", "CSS", "NodeJS", "MongoDB", "ExpressJS"],
+      github: "https://github.com/MadiraGowtham/Machine_Test",
+      demo: null,
+      features: ["Agents Creation", "Tasks Assign", "Agents Details Manipulation"]
+    },
+    {
+      title: "Gradious Learning Management System",
+      description: "A learning platform offering courses, materials, quizzes, and video sessions for students. Developed front-end with role-based access and UI logic using HTML, CSS, and JS with Gradious support. Gained knowledge of JSON-server, access control, and dynamic course content integration.",
+      tech: ["HTML", "CSS", "JavaScript", "JSON Server"],
+      github: "https://github.com/MadiraGowtham/GradiousLearning",
+      demo: null,
+      features: ["Course Offering", "Content Management", "User Accounts", "Communication and Collaboration Tools", "Tracking Progress"]
     }
   ];
 
