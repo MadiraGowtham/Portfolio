@@ -17,7 +17,7 @@ const Projects = () => {
       title: "VVIT Fee Management System",
       description: "A robust fee management system for educational institutions. Handles student fee tracking, payment processing, and administrative functions.",
       tech: ["JavaScript", "Node.js", "Database", "Web APIs"],
-      github: "https://github.com/MadiraGowtham/VVIT_FeeManagementSystem",
+      github: "https://github.com/MadiraGowtham/Fee-ManagementSystem",
       demo: null,
       features: ["Payment Processing", "Student Management", "Admin Dashboard", "Report Generation"]
     },
